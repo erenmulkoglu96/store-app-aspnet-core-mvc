@@ -9,6 +9,14 @@ Katmanlı Mimari kullanılarak clean code prensiplerine uygun yapı tasarlandı.
 (A structure was designed in accordance with clean code principles using Layered Architecture. Category-based product listing, filtering and purchasing simulation in the user interface, product, category and user management in the admin panel, CRUD operations and responsive and modern design were integrated with Bootstrap 5.)
 
 
+## Kullanılan Teknolojiler
+
+ASP.NET Core MVC -	Web uygulama çatısı
+Entity Framework Core -	ORM ve veri erişim katmanı
+SQLite / SQL Server	Veritabanı
+Razor Pages -	View katmanı
+Bootstrap -	Responsive arayüz tasarımı
+
 ## Project Commands
 ```csharp
 dotnet new sln -o Store
