@@ -12,9 +12,13 @@ Katmanlı Mimari kullanılarak clean code prensiplerine uygun yapı tasarlandı.
 ## Kullanılan Teknolojiler
 
 ASP.NET Core MVC -	Web uygulama çatısı
+
 Entity Framework Core -	ORM ve veri erişim katmanı
+
 SQLite / SQL Server	Veritabanı
+
 Razor Pages -	View katmanı
+
 Bootstrap -	Responsive arayüz tasarımı
 
 ## Project Commands
