@@ -15,7 +15,7 @@ ASP.NET Core MVC -	Web uygulama çatısı
 
 Entity Framework Core -	ORM ve veri erişim katmanı
 
-SQLite / SQL Server	Veritabanı
+SQLite / SQL Server -	Veritabanı
 
 Razor Pages -	View katmanı
 
