@@ -21,6 +21,27 @@ Razor Pages -	View katmanı
 
 Bootstrap -	Responsive arayüz tasarımı
 
+## Özellikler
+
+Ürün listeleme ve detay sayfası
+
+ Kullanıcı ve admin girişi
+
+ Kategori filtreleme
+
+ Admin paneli üzerinden:
+ 
+   A. Ürün oluşturma, düzenleme ve silme
+   
+   B. Kategori yönetimi
+   
+  Entity Framework Core ile veritabanı işlemleri
+  
+  Razor View ile sayfa yapısı
+
+  Vveritabanı desteği (SQL Server, SQLite)
+  
+
 ## Project Commands
 ```csharp
 dotnet new sln -o Store
