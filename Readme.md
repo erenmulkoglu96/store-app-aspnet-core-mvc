@@ -39,7 +39,7 @@ Bootstrap -	Responsive arayüz tasarımı
   
   Razor View ile sayfa yapısı
 
-  Vveritabanı desteği (SQL Server, SQLite)
+  Veritabanı desteği (SQL Server, SQLite)
   
 
 ## Project Commands
