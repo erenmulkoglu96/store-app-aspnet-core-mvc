@@ -42,10 +42,10 @@ Bootstrap -	Responsive arayüz tasarımı
   Veritabanı desteği (SQL Server, SQLite)
 
 
-  ``
+  ```
 git clone https://github.com/erenmulkoglu96/store-app-aspnet-core-mvc.git
 
-``
+```
 
 ## Project Commands
 ```csharp
