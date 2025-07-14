@@ -42,6 +42,7 @@ Bootstrap -	Responsive arayüz tasarımı
   Veritabanı desteği (SQL Server, SQLite)
 
 
+
 Proje klonlama:
 
   ```
