@@ -43,7 +43,7 @@ Bootstrap -	Responsive arayüz tasarımı
 
 
 
-Proje klonlama:
+## Proje klonlama:
 
   ```
 git clone https://github.com/erenmulkoglu96/store-app-aspnet-core-mvc.git
