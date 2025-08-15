@@ -1,14 +1,14 @@
-# .gitattributes
+StoreApp/wwwroot/lib/bootstrap/js/bootstrap.bundle.js linguist-vendored
+StoreApp/wwwroot/lib/bootstrap/js/bootstrap.bundle.min.js linguist-vendored
+StoreApp/wwwroot/lib/bootstrap/js/bootstrap.esm.js linguist-vendored
+StoreApp/wwwroot/lib/bootstrap/js/bootstrap.esm.min.js linguist-vendored
+StoreApp/wwwroot/lib/bootstrap/js/bootstrap.js linguist-vendored
+StoreApp/wwwroot/lib/bootstrap/js/bootstrap.min.js linguist-vendored
+StoreApp/wwwroot/lib/font-awesome/js/all.js linguist-vendored
+StoreApp/wwwroot/lib/font-awesome/js/all.min.js linguist-vendored
+StoreApp/wwwroot/lib/font-awesome/js/brands.js linguist-vendored
+StoreApp/wwwroot/lib/font-awesome/js/conflict-detection.js linguist-vendored
+StoreApp/wwwroot/lib/font-awesome/js/conflict-detection.min.js linguist-vendored
+StoreApp/wwwroot/lib/font-awesome/js/fontawesome.js linguist-vendored
+StoreApp/wwwroot/lib/font-awesome/js/fontawesome.min.js linguist-vendored
 
-# Derleme çıktıları / paketler
-dist/** linguist-generated
-build/** linguist-generated
-**/*.map linguist-generated
-**/*.min.js linguist-vendored
-
-# wwwroot içindeki 3rd-party varlıklar (Bootstrap, jQuery, vs.)
-wwwroot/lib/** linguist-vendored
-wwwroot/**/vendor/** linguist-vendored
-
-# Dökümantasyon / örnekler (isteğe bağlı)
-docs/** linguist-documentation
