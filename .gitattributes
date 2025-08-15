@@ -6,5 +6,7 @@ StoreApp/wwwroot/lib/bootstrap/js/bootstrap.js linguist-vendored
 StoreApp/wwwroot/lib/bootstrap/js/bootstrap.min.js linguist-vendored
 StoreApp/wwwroot/lib/font-awesome/js/all.js linguist-vendored
 StoreApp/wwwroot/lib/font-awesome/js/all.min.js linguist-vendored
-
+StoreApp/wwwroot/lib/font-awesome/js/brands.js linguist-vendored
+StoreApp/wwwroot/lib/font-awesome/js/fontawesome.js linguist-vendored
+StoreApp/wwwroot/lib/font-awesome/js/fontawesome.min.js linguist-vendored
 
